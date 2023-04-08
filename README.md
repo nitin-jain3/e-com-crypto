@@ -1,4 +1,6 @@
-# This project is deploed through vercel on ()
+# This project is deploed through vercel :-
+
+Link is: https://e-com-five-wheat.vercel.app/
 
 # Getting Started with Create React App
 
